@@ -1,50 +1,71 @@
 [
     {
-      "title": "It",
+        "id": "1",
+      "title": "The It",
       "poster":
         "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        , "status": "wantto"
+        , "status": "toconsume"
     },
     {
-      "title": "It",
+        "id": "2",
+      "title": "Batman: The Killing Joke",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "wantto"
+      "https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        ,"status": "toconsume"
     },
     {
-      "title": "It",
+        "id": "3",
+      "title": "Tha Summer I Turned Pretty",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "wantto"
+      "https://m.media-amazon.com/images/M/MV5BYzQyN2MxNDgtMzA1OC00NmFmLWFkYTktNGFhMjdhYWZjMDM5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg"
+        ,"status": "toconsume"
     },
     {
-      "title": "It",
+        "id": "4",
+      "title": "The Great Gatsby",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "done"
+      "https://i.ebayimg.com/images/g/Gm4AAOSwS8JhZF4-/s-l1600.jpg"
+        ,"status": "consumed"
     },
     {
-      "title": "It",
+        "id": "5",
+      "title": "Avengers - Infinity War (2018)",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "done"
+      "https://i.ebayimg.com/images/g/kukAAOSw-YZa8mLH/s-l1600.jpg"
+        ,"status": "consumed"
     },
     {
-      "title": "It",
+        "id": "6",
+      "title": "Spider-Man - Homecoming",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "done"
+        "https://media.vanityfair.com/photos/592592596736887ada186bcd/master/w_1600%2Cc_limit/spider-man-homecoming-SMH_DOM_Online_FNL_1SHT_3DRD3DIMX_AOJ_300dpi_01_rgb.jpg"
+        ,"status": "consumed"
     },
     {
-      "title": "It",
+        "id": "7",
+      "title": "Home Alone",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "done"
+"https://media.licdn.com/dms/image/C5612AQE4hi2coNSeUA/article-inline_image-shrink_1500_2232/0/1603084325804?e=1690416000&v=beta&t=ZZSCFMvsuvXLdz2NorTHfLZ8RnOxqujzRtUV-2lZbNI",
+"status": "toconsume"},
+    {
+        "id": "8",
+      "title": "Jaws 2",
+      "poster":
+        "https://www.arthipo.com/image/cache/catalog/poster/movie/1-758/pfilm729-jaws-2_657102db-movie-film-posteri-1000x1000.jpg",
+        "status": "toconsume"
     },
     {
-      "title": "It",
+        "id": "9",
+      "title": "127 Hours",
       "poster":
-        "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
-        ,"status": "done"
+        "https://talenthouse-res.cloudinary.com/image/upload/c_limit,w_750,h_1111/v1/articles/cgouazfe1obhqri4umol",
+        "status": "toconsume"
+    },
+    {
+        "id": "10",
+      "title": "Avatar. Tha way of water.",
+      "poster":
+        "https://i.ebayimg.com/images/g/~wEAAOSwwfBi5~sl/s-l1600.jpg",
+        "status": "toconsume"
     }
   ]

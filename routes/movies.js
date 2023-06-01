@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const { v4: uuidv4 } = require('uuid');
-const movies = require("../data/movies-library.json");
+let movies = require("../data/movies-library.json");
 
 
 router.get("/", (req, res) => {
@@ -11,7 +11,7 @@ router.get("/", (req, res) => {
 
 // delete movie by id
 router.delete("/:movieId", (req, res) => {
-    const movieId = req.params.movieId;
+    const movieId = req.params.movieId
     movies =  movies.filter((movie) => movie.id !== movieId);
     res.json(movies);
 })
